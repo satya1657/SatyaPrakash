@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,KACE,aACF,CAEA,eACE,iBAAkB,CAClB,KAAM,CACN,MAAO,CACP,UAAW,CACX,WAGF","file":"main.96e1ccac.chunk.css","sourcesContent":["\nhtml{\n  font-size: 70%;\n}\n\n.particles-box {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  /* z-index: 1; */\n\n}\n"]}
