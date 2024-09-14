@@ -93,14 +93,14 @@ const Myintro = () =>{
                
                 <div  data-aos="zoom-in" className={classes.myphoto}> </div>
                   
-            <p >Hello! I'm <span style={{color:' rgb(245, 6, 117)'}}>Satyaprakash</span>, I completed my intermediate from 
-            Jawahar Navadaya Vidyalaya, Muazaffarnagar. Currently I am a 3rd year
-            Undergraduate (2018-22) at<span style={{color:' rgb(245, 6, 117)'}}> Indian Institute of Information Technology, 
-            Vadodara </span> pursuing B.Tech. in Computer Science and Engineering.                  
-</p>        <p >I have been a quick learner and enthusiastic about web Technologies.
-             I am a frontend developer and eager to start a career in web development.
-</p>          
-            <p>I am a good volleyball player.I like to play piano and listening music.</p>   
+            <p >Hello! I'm <span style={{color:' rgb(245, 6, 117)'}}>Satyaprakash</span>, a dedicated Software Developer 
+            with 3 years of experience in data engineering, DevOps, and UI development.
+            I specialize in building scalable, high-performance systems using technologies like Java, Python, Scala, MATLAB, 
+            Spring Boot, ReactJS, Spark, AWS, Docker, Kubernetes, and more. 
+            My career has been marked by a strong commitment to optimizing system 
+            efficiency and enhancing performance, exemplified by my contributions to projects 
+            that have handled thousands of requests per minute and processed billions of data points.
+</p>            
             
                 </div>
                
